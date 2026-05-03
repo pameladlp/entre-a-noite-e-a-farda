@@ -54,3 +54,22 @@ As imagens foram comprimidas para JPG para permitir upload pelo navegador do Git
 
 - Capa da página inicial corrigida para aparecer inteira, sem corte.
 - Legendas da galeria revisadas para corresponder melhor às fotos.
+
+
+## Supabase configurado
+
+Este pacote já está com a Project URL e a publishable key pública inseridas no `index.html`.
+
+A moderação continua sendo feita no Supabase pela coluna `status` da tabela `guestbook_comments`.
+
+
+## Favicon
+
+Esta versão inclui favicon em:
+- `assets/favicon/favicon.ico`
+- `assets/favicon/favicon-16x16.png`
+- `assets/favicon/favicon-32x32.png`
+- `assets/favicon/apple-touch-icon.png`
+- `assets/favicon/site.webmanifest`
+
+Se o favicon não aparecer imediatamente no GitHub Pages, limpe o cache ou abra o site com `?v=4` no final da URL.
