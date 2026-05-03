@@ -73,3 +73,35 @@ Esta versão inclui favicon em:
 - `assets/favicon/site.webmanifest`
 
 Se o favicon não aparecer imediatamente no GitHub Pages, limpe o cache ou abra o site com `?v=4` no final da URL.
+
+
+## Comentários sem moderação
+
+Esta versão publica comentários automaticamente.
+
+Para atualizar o Supabase já criado:
+1. Abra o Supabase.
+2. Vá em SQL Editor.
+3. Execute o arquivo `supabase_auto_approve.sql`.
+
+Depois disso, novos comentários entram como `approved` e aparecem no site sem aprovação manual.
+
+
+## Atualização final
+
+- Foto da seção “Sobre o autor” substituída pela nova imagem enviada.
+- Comentários configurados para publicação automática, sem aprovação manual.
+- Ilustração do capítulo do CREED ampliada levemente para ficar mais proporcional às demais.
+
+
+## Galeria atualizada
+
+Foram adicionados à galeria:
+- Diploma de Pós-Graduação em Gestão de Recursos Humanos
+- Medalha de Bronze — 10 anos de serviço
+- Medalha de Prata — 20 anos de serviço
+- Medalha de Ouro — 30 anos de serviço
+- Medalha Pernambucana do Mérito Policial Militar
+- Certificado de destaque pelos bons serviços prestados
+- Homenagem do 17º BPM — 2021
+- Foto das medalhas e condecorações
