@@ -48,3 +48,9 @@ O último parágrafo do epílogo foi substituído pelo texto sobre o serviço de
 ## Versão otimizada
 
 As imagens foram comprimidas para JPG para permitir upload pelo navegador do GitHub e carregamento mais rápido no GitHub Pages.
+
+
+## Ajustes adicionais
+
+- Capa da página inicial corrigida para aparecer inteira, sem corte.
+- Legendas da galeria revisadas para corresponder melhor às fotos.
