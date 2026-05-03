@@ -116,3 +116,27 @@ A nova foto do autor foi aplicada nos dois locais:
 ## Ajuste de galeria
 
 O card do Diploma de Pós-Graduação em Gestão de Recursos Humanos foi removido da galeria.
+
+
+## Medalhas e Honrarias em seção própria
+
+A galeria foi reorganizada:
+- fotos pessoais e de trajetória permanecem em “Galeria completa”;
+- medalhas, certificados e homenagens foram movidos para a seção “Medalhas e Honrarias”.
+
+Ordem definida:
+1. Medalha de Bronze — 10 anos
+2. Medalha de Prata — 20 anos
+3. Medalha de Ouro — 30 anos
+4. Medalha Pernambucana do Mérito Policial Militar
+5. Certificado de destaque pelos bons serviços prestados
+6. Homenagem do 17º BPM — 2021
+7. Medalhas e condecorações
+
+
+## Ajustes finais de navegação e responsividade
+
+- Item “Medalhas” incluído no menu superior.
+- Seção “Medalhas e Honrarias” acessível diretamente pelo menu.
+- Responsividade reforçada para celular, especialmente no menu, galerias e honrarias.
+- Nova foto “Retrato fardado” adicionada à galeria comum.
