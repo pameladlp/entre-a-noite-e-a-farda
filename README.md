@@ -97,7 +97,6 @@ Depois disso, novos comentários entram como `approved` e aparecem no site sem a
 ## Galeria atualizada
 
 Foram adicionados à galeria:
-- Diploma de Pós-Graduação em Gestão de Recursos Humanos
 - Medalha de Bronze — 10 anos de serviço
 - Medalha de Prata — 20 anos de serviço
 - Medalha de Ouro — 30 anos de serviço
@@ -105,3 +104,15 @@ Foram adicionados à galeria:
 - Certificado de destaque pelos bons serviços prestados
 - Homenagem do 17º BPM — 2021
 - Foto das medalhas e condecorações
+
+
+## Foto do autor corrigida
+
+A nova foto do autor foi aplicada nos dois locais:
+- card “Sobre o autor” da página inicial;
+- seção completa “Sobre o autor”.
+
+
+## Ajuste de galeria
+
+O card do Diploma de Pós-Graduação em Gestão de Recursos Humanos foi removido da galeria.
